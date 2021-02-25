@@ -1,0 +1,7 @@
+gulpfile.js
+package-lock.json
+package.json
+scss/*
+README.md
+.idea/*
+log/*

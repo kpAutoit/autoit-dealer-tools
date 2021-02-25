@@ -1,0 +1,8 @@
+.idea
+composer.lock
+composer.json
+phpunit.xml
+.phpunit.result.cache
+.example.env
+tests/
+log/
